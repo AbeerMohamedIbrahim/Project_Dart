@@ -146,7 +146,3 @@ dart run main.dart
 ```
 
 ---
-
-## 📣 Author
-
-Created to demonstrate full OOP implementation in Dart for a simulated ATM system.
